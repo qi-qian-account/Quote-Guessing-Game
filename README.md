@@ -1,1 +1,4 @@
 # Quote-Guessing-Game
+In this game, we will scrape a quote and details of the author from this site http//quotes.toscrape.com using python framework called BeautifulSoup and develop a guessing game using different data structures and algorithm.
+
+The user will be given 4 chances to guess the author of a famous quote, In every chance the user will be provided with a hint which can be the author’s birth date, first name’s first letter, second name’s first letter, etc. On successfully guessing the author, a message is printed and if the user fails to guess the answer even after all the 4 chances then again a message is printed along with the answer.
